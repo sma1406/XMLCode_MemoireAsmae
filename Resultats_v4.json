@@ -1,0 +1,1160 @@
+{
+  "q": {
+    "data": [
+      {
+        "Inventaire": "CdN_2004-162",
+        "Vierge_Marie": "Vierge_Hodègètria1",
+        "Debout": "en_pied"
+      },
+      {
+        "Inventaire": "CdN_2004-170",
+        "Vierge_Marie": "Vierge_Épiskepsis2",
+        "Objet": "médaillon_au_buste_de_l'Enfant1",
+        "Mains": "mains"
+      },
+      {
+        "Inventaire": "CdN_2004-172",
+        "Personnage": "archange_Michel1",
+        "Armer": "tenant",
+        "Objet1": "sceptre_à_terminaison1",
+        "Objet2": "globe1"
+      },
+      {
+        "Inventaire": "CdN_2004-172",
+        "Personnage": "archange_Michel2",
+        "Debout": "en_pied"
+      },
+      {
+        "Inventaire": "CdN_2004-173",
+        "Personnage": "saint_Nicolas3",
+        "Benir": "bénissant",
+        "Ben_Main_Droite": "de_la_droite"
+      },
+      {
+        "Inventaire": "CdN_2004-174",
+        "Personnage": "saint_Dèmètrios4",
+        "Armer": "tenant",
+        "Objet1": "lance2",
+        "Objet2": "bouclier2"
+      },
+      {
+        "Inventaire": "CdN_2004-175",
+        "Vierge_Marie": "Vierge_Hodègètria3",
+        "Position": "tourné",
+        "Christ": "Enfant1"
+      },
+      {
+        "Inventaire": "CdN_2004-176",
+        "Vierge_Marie": "Vierge4",
+        "Assis": "assise",
+        "Trone": "trône1"
+      },
+      {
+        "Inventaire": "CdN_2004-177",
+        "Personnage": "saint_Dèmètrios5",
+        "Armer": "tenant",
+        "Objet1": "lance3",
+        "Objet2": "bouclier3"
+      },
+      {
+        "Inventaire": "CdN_2004-177",
+        "Personnage": "saint_Dèmètrios6",
+        "Debout": "en_pied"
+      },
+      {
+        "Inventaire": "CdN_2004-178",
+        "Personnage": "saint_Dèmètrios7",
+        "Armer": "tenant",
+        "Objet1": "lance4",
+        "Objet2": "bouclier4"
+      },
+      {
+        "Inventaire": "CdN_2004-178",
+        "Personnage": "saint_Dèmètrios8",
+        "Debout": "en_pied"
+      },
+      {
+        "Inventaire": "CdN_2004-179",
+        "Personnage": "prophète_Élie9",
+        "Debout": "en_pied"
+      },
+      {
+        "Inventaire": "CdN_2004-180",
+        "Personnage": "archange_Michel10",
+        "Debout": "en_pied"
+      },
+      {
+        "Inventaire": "CdN_2004-180",
+        "Personnage": "archange_Michel11",
+        "Objet_Droite": "épée1",
+        "Main_Droite": "main_droite"
+      },
+      {
+        "Inventaire": "CdN_2004-185",
+        "Personnage": "saint_Dèmètrios12",
+        "Armer": "tenant",
+        "Objet1": "lance5",
+        "Objet2": "bouclier5"
+      },
+      {
+        "Inventaire": "CdN_2004-185",
+        "Personnage": "saint_Dèmètrios13",
+        "Debout": "en_pied"
+      },
+      {
+        "Inventaire": "CdN_2004-187",
+        "Personnage": "buste_de_saint_Nicolas14",
+        "Benir": "bénissant",
+        "Main_Droite": "de_la_droite"
+      },
+      {
+        "Inventaire": "CdN_2004-188",
+        "Personnage": "saint_Georges15",
+        "Armer": "tenant",
+        "Objet1": "bouclier6",
+        "Objet2": "croisette6"
+      },
+      {
+        "Inventaire": "CdN_2004-189",
+        "Personnage": "archange_Michel16",
+        "Armer": "tenant",
+        "Objet1": "sceptre7",
+        "Objet2": "globe7"
+      },
+      {
+        "Inventaire": "CdN_2004-189",
+        "Personnage": "archange_Michel17",
+        "Debout": "en_pied"
+      },
+      {
+        "Inventaire": "CdN_2004-218",
+        "Personnage": "saint_Dèmètrios18",
+        "Armer": "tenant",
+        "Objet1": "lance8",
+        "Objet2": "bouclier8"
+      },
+      {
+        "Inventaire": "CdN_2004-218",
+        "Personnage": "saint_Dèmètrios19",
+        "Debout": "en_pied"
+      },
+      {
+        "Inventaire": "CdN_2004-224",
+        "Personnage": "saint_Georges20",
+        "Armer": "armé",
+        "Objet1": "lance9",
+        "Objet2": "bouclier9"
+      },
+      {
+        "Inventaire": "CdN_2004-231",
+        "Personnage": "saint_Théodore21",
+        "Armer": "tenant",
+        "Objet1": "lance10",
+        "Objet2": "bouclier10"
+      },
+      {
+        "Inventaire": "CdN_2004-233",
+        "Personnage": "saint_Théodore22",
+        "Armer": "tenant",
+        "Objet1": "lance11",
+        "Objet2": "bouclier11"
+      },
+      {
+        "Inventaire": "CdN_2004-233",
+        "Personnage": "saint_Théodore23",
+        "Debout": "en_pied"
+      },
+      {
+        "Inventaire": "CdN_2004-234",
+        "Personnage": "saint_Dèmètrios24",
+        "Armer": "armé",
+        "Objet1": "lance12",
+        "Objet2": "bouclier12"
+      },
+      {
+        "Inventaire": "CdN_2004-238",
+        "Vierge_Marie": "Vierge_Épiskepsis5",
+        "Sur": "debout_sur",
+        "Souppedion": "souppédion1"
+      },
+      {
+        "Inventaire": "CdN_2004-239",
+        "Vierge_Marie": "Vierge_Blachernitissa6",
+        "Sur": "Debout_sur",
+        "Souppedion": "souppédion2"
+      },
+      {
+        "Inventaire": "CdN_2004-240",
+        "Vierge_Marie": "Vierge_Blachernitissa7",
+        "Position": "derrière",
+        "Personnage": "archange_Michel25"
+      },
+      {
+        "Inventaire": "CdN_2004-240",
+        "Vierge_Marie": "Vierge_Blachernitissa8",
+        "Sur": "debout_sur",
+        "Souppedion": "souppédion3"
+      },
+      {
+        "Inventaire": "CdN_2004-242",
+        "Personnage": "saint_Georges26",
+        "Armer": "tenant",
+        "Objet1": "lance13",
+        "Objet2": "bouclier13"
+      },
+      {
+        "Inventaire": "CdN_2004-242",
+        "Personnage": "saint_Georges27",
+        "Debout": "en_pied"
+      },
+      {
+        "Inventaire": "CdN_2004-243",
+        "Vierge_Marie": "Vierge_Hodègètria9",
+        "Debout": "en_pied"
+      },
+      {
+        "Inventaire": "CdN_2004-247",
+        "Vierge_Marie": "Vierge10",
+        "Mains": "mains",
+        "Objet": "croisette2"
+      },
+      {
+        "Inventaire": "CdN_2004-250",
+        "Personnage": "saint_Dèmètrios28",
+        "Armer": "armé",
+        "Objet1": "lance14",
+        "Objet2": "bouclier14"
+      },
+      {
+        "Inventaire": "CdN_2004-250",
+        "Personnage": "saint_Dèmètrios29",
+        "Debout": "en_pied"
+      },
+      {
+        "Inventaire": "CdN_2004-251",
+        "Vierge_Marie": "Vierge_Hodègètria11",
+        "Position": "tournée_vers",
+        "Christ": "Enfant2"
+      },
+      {
+        "Inventaire": "CdN_2004-253",
+        "Personnage": "saint_Georges30",
+        "Armer": "tenant",
+        "Objet1": "lance15",
+        "Objet2": "bouclier15"
+      },
+      {
+        "Inventaire": "CdN_2004-255",
+        "Personnage": "saint_Théodore31",
+        "Armer": "tenant",
+        "Objet1": "lance16",
+        "Objet2": "bouclier16"
+      },
+      {
+        "Inventaire": "CdN_2004-255",
+        "Personnage": "saint_Théodore32",
+        "Debout": "en_pied"
+      },
+      {
+        "Inventaire": "CdN_2004-260",
+        "Vierge_Marie": "Vierge_Hagiosôritissa12",
+        "Debout": "en_pied"
+      },
+      {
+        "Inventaire": "CdN_2004-260",
+        "Vierge_Marie": "Vierge_Hagiosôritissa13",
+        "Objet": "maphorion3",
+        "Mains": "mains"
+      },
+      {
+        "Inventaire": "CdN_2004-261",
+        "Vierge_Marie": "Vierge_Hodègètria14",
+        "Position": "tournée_vers",
+        "Christ": "Enfant3"
+      },
+      {
+        "Inventaire": "CdN_2004-262",
+        "Vierge_Marie": "Vierge15",
+        "Mains": "deux_mains",
+        "Objet": "médaillon4"
+      },
+      {
+        "Inventaire": "CdN_2004-262",
+        "Vierge_Marie": "Vierge16",
+        "Sur": "debout_sur",
+        "Souppedion": "souppédion4"
+      },
+      {
+        "Inventaire": "CdN_2004-264",
+        "Vierge_Marie": "Vierge_Hodègètria17",
+        "Position": "tournée_vers",
+        "Christ": "Enfant4"
+      },
+      {
+        "Inventaire": "CdN_2004-266",
+        "Vierge_Marie": "Vierge_Hodègètria18",
+        "Position": "tournée_vers",
+        "Christ": "Enfant5"
+      },
+      {
+        "#text": "Assis&gt;assise",
+        "Inventaire": "CdN_2004-268",
+        "Vierge_Marie": "Vierge_Platytéra19",
+        "Trone": "thôkos2"
+      },
+      {
+        "Inventaire": "CdN_2004-276",
+        "Personnage": "archange_Michel33",
+        "Armer": "tenant",
+        "Objet1": "sceptre_à_terminaison17",
+        "Objet2": "globe17"
+      },
+      {
+        "Inventaire": "CdN_2004-276",
+        "Personnage": "archange_Michel34",
+        "Sur": "debout_sur",
+        "Souppedion": "souppédion5"
+      },
+      {
+        "Inventaire": "CdN_2004-278",
+        "Personnage": "saint_Dèmètrios35",
+        "Armer": "armé",
+        "Objet1": "bouclier18",
+        "Objet2": "croisette18"
+      },
+      {
+        "Inventaire": "CdN_2004-278",
+        "Personnage": "saint_Dèmètrios36",
+        "Sur": "debout_sur",
+        "Souppedion": "souppédion6"
+      },
+      {
+        "Inventaire": "CdN_2004-279",
+        "Personnage": "saint_Georges37",
+        "Armer": "tenant",
+        "Objet1": "lance19",
+        "Objet2": "épée19"
+      },
+      {
+        "Inventaire": "CdN_2004-279",
+        "Personnage": "saint_Georges38",
+        "Debout": "en_pied"
+      },
+      {
+        "Inventaire": "CdN_2004-280",
+        "Personnage": "saint_Dèmètrios39",
+        "Debout": "en_pied"
+      },
+      {
+        "Inventaire": "CdN_2004-280",
+        "Personnage": "saint_Dèmètrios40",
+        "Objet_Droite": "lance2",
+        "Main_Droite": "main_droite"
+      },
+      {
+        "Inventaire": "CdN_2004-281",
+        "Personnage": "saint_Dèmètrios41",
+        "Armer": "tenant",
+        "Objet1": "lance20",
+        "Objet2": "bouclier20"
+      },
+      {
+        "Inventaire": "CdN_2004-281",
+        "Personnage": "saint_Dèmètrios42",
+        "Debout": "en_pied"
+      },
+      {
+        "Inventaire": "CdN_2004-284",
+        "Personnage": "saint_Georges43",
+        "Armer": "tenant",
+        "Objet1": "lance21",
+        "Objet2": "bouclier21"
+      },
+      {
+        "Inventaire": "CdN_2004-285",
+        "Vierge_Marie": "Vierge20",
+        "Assis": "assise",
+        "Trone": "trône3"
+      },
+      {
+        "Inventaire": "CdN_2004-286",
+        "Personnage": "saint_Georges44",
+        "Armer": "tenant",
+        "Objet1": "lance22",
+        "Objet2": "bouclier22"
+      },
+      {
+        "Inventaire": "CdN_2004-288",
+        "Personnage": "buste_de_saint_Nicolas45",
+        "Benir": "bénissant",
+        "Main_Droite": "de_la_droite"
+      },
+      {
+        "Inventaire": "CdN_2004-290",
+        "Personnage": "Christ46",
+        "Assis": "assis",
+        "Trone": "trône4"
+      },
+      {
+        "Inventaire": "CdN_2004-295",
+        "Vierge_Marie": "Vierge21",
+        "Armer": "tenant",
+        "Objet1": "médaillon23",
+        "Objet2": "croisette23"
+      },
+      {
+        "Inventaire": "CdN_2004-298",
+        "Personnage": "Christ47",
+        "Armer": "tenant",
+        "Objet1": "Évangiles24",
+        "Objet2": "nimbe_crucigère24"
+      },
+      {
+        "Inventaire": "CdN_2004-298",
+        "Personnage": "Christ48",
+        "Benir": "bénissant",
+        "Main_Droite": "de_la_droite"
+      },
+      {
+        "Inventaire": "CdN_2004-321",
+        "Personnage": "saint_Georges49",
+        "Armer": "armé",
+        "Objet1": "lance25",
+        "Objet2": "bouclier25"
+      },
+      {
+        "Inventaire": "CdN_2004-321",
+        "Personnage": "saint_Georges50",
+        "Debout": "en_pied"
+      },
+      {
+        "Inventaire": "CdN_2004-335",
+        "Vierge_Marie": "Vierge_Hodègètria22",
+        "Position": "tournée",
+        "Christ": "Enfant6"
+      },
+      {
+        "Inventaire": "CdN_2004-337",
+        "Personnage": "saint_Georges51",
+        "Armer": "tenant",
+        "Objet1": "lance26",
+        "Objet2": "bouclier26"
+      },
+      {
+        "Inventaire": "CdN_2004-337",
+        "Personnage": "saint_Georges52",
+        "Debout": "en_pied"
+      },
+      {
+        "Inventaire": "CdN_2004-340",
+        "Personnage": "saint_Dèmètrios53",
+        "Armer": "tenant",
+        "Objet1": "lance27",
+        "Objet2": "bouclier27"
+      },
+      {
+        "Inventaire": "CdN_2004-340",
+        "Personnage": "saint_Dèmètrios54",
+        "Debout": "en_pied"
+      },
+      {
+        "Inventaire": "CdN_2004-342",
+        "Vierge_Marie": "Vierge_Épiskepsis23",
+        "Sur": "debout_sur",
+        "Souppedion": "souppédion7"
+      },
+      {
+        "Inventaire": "CdN_2004-344",
+        "Personnage": "saint_Basile55",
+        "Benir": "bénissant",
+        "Main_Droite": "de_la_droite"
+      },
+      {
+        "Inventaire": "CdN_2004-344",
+        "Personnage": "saint_Basile56",
+        "Debout": "en_pied"
+      },
+      {
+        "Inventaire": "CdN_2004-345",
+        "Personnage": "buste_de_saint_Théodore57",
+        "Armer": "armé",
+        "Objet1": "lance28",
+        "Objet2": "bouclier28"
+      },
+      {
+        "Inventaire": "CdN_2004-345",
+        "Personnage": "buste_de_saint_Théodore58",
+        "Armer": "armé",
+        "Objet1": "lance29",
+        "Objet2": "bouclier29"
+      },
+      {
+        "Inventaire": "CdN_2004-346",
+        "Personnage": "saint_Jean_Baptiste59",
+        "Armer": "tenant",
+        "Objet1": "le_Livre30",
+        "Objet2": "croisette30"
+      },
+      {
+        "Inventaire": "CdN_2004-347",
+        "Vierge_Marie": "Vierge_Épiskepsis24",
+        "Sur": "debout_sur",
+        "Souppedion": "souppédion8"
+      },
+      {
+        "Inventaire": "CdN_2004-352",
+        "Personnage": "saint_Dèmètrios60",
+        "Armer": "armé",
+        "Objet1": "lance31",
+        "Objet2": "bouclier31"
+      },
+      {
+        "Inventaire": "CdN_2004-353",
+        "Personnage": "saint_Jean_Chrysostome61",
+        "Armer": "tenant",
+        "Objet1": "Évangiles32",
+        "Objet2": "croisette32"
+      },
+      {
+        "Inventaire": "CdN_2004-354",
+        "Personnage": "buste_de_saint_Théodore62",
+        "Armer": "armé",
+        "Objet1": "lance33",
+        "Objet2": "bouclier33"
+      },
+      {
+        "Inventaire": "CdN_2004-355",
+        "Vierge_Marie": "buste_de_la_Vierge_Nikopoios25",
+        "Objet": "maphorion5",
+        "Mains": "deux_mains"
+      },
+      {
+        "Inventaire": "CdN_2004-355",
+        "Vierge_Marie": "buste_de_la_Vierge_Nikopoios26",
+        "Position": "devant_elle",
+        "Christ": "Enfant7"
+      },
+      {
+        "Inventaire": "CdN_2004-356",
+        "Vierge_Marie": "Vierge27",
+        "Mains": "deux_mains",
+        "Objet": "médaillon6"
+      },
+      {
+        "Inventaire": "CdN_2004-360",
+        "Personnage": "buste_de_saint_Nicolas63",
+        "Armer": "tenant",
+        "Objet1": "Évangiles34",
+        "Objet2": "croisette34"
+      },
+      {
+        "Inventaire": "CdN_2004-361",
+        "Personnage": "saint_Jean_Chrysostome64",
+        "Armer": "tenant",
+        "Objet1": "croix_patriarcale35",
+        "Objet2": "croisette35"
+      },
+      {
+        "Inventaire": "CdN_2004-362",
+        "Personnage": "buste_du_Christ65",
+        "Armer": "tenant",
+        "Objet1": "Évangiles36",
+        "Objet2": "croisette36"
+      },
+      {
+        "Inventaire": "CdN_2004-362",
+        "Personnage": "buste_du_Christ66",
+        "Benir": "bénissant",
+        "Main_Droite": "de_la_droite"
+      },
+      {
+        "Inventaire": "CdN_2004-364",
+        "Personnage": [
+          "saint_Basile67",
+          "buste_du_Christ68"
+        ],
+        "Position": "tourné"
+      },
+      {
+        "Inventaire": "CdN_2004-364",
+        "Personnage": "saint_Basile69",
+        "Sur": "debout_sur",
+        "Souppedion": "souppédion9"
+      },
+      {
+        "#text": "Emmanuel",
+        "Inventaire": "CdN_2004-368",
+        "Personnage": "buste_du_Christ70",
+        "Benir": "bénissant",
+        "Main_Droite": "de_la_droite"
+      },
+      {
+        "Inventaire": "CdN_2004-369",
+        "Personnage": "buste_du_Christ71",
+        "Benir": "bénit",
+        "Main_Droite": "de_la_droite"
+      },
+      {
+        "Inventaire": "CdN_2004-369",
+        "Personnage": [
+          "buste_du_Christ72",
+          "Constantin73"
+        ],
+        "Position": "Derrière"
+      },
+      {
+        "Inventaire": "CdN_2004-373",
+        "Vierge_Marie": "Vierge28",
+        "Debout": "en_pied"
+      },
+      {
+        "Inventaire": "CdN_2004-376",
+        "Personnage": "saint_Dèmètrios74",
+        "Armer": "tenant",
+        "Objet1": "lance37",
+        "Objet2": "bouclier37"
+      },
+      {
+        "Inventaire": "CdN_2004-376",
+        "Personnage": "saint_Dèmètrios75",
+        "Debout": "en_pied"
+      },
+      {
+        "Inventaire": "CdN_2004-377",
+        "Personnage": "Christ76",
+        "Sur": "debout_sur",
+        "Souppedion": "souppédion10"
+      },
+      {
+        "Inventaire": "CdN_2004-391",
+        "Personnage": "buste_de_saint_Théodore77",
+        "Armer": "tenant",
+        "Objet1": "lance38",
+        "Objet2": "bouclier38"
+      },
+      {
+        "Inventaire": "CdN_2004-407",
+        "Personnage": "Christ78",
+        "Benir": "bénissant",
+        "Main_Droite": "de_la_droite"
+      },
+      {
+        "Inventaire": "CdN_2004-407",
+        "Personnage": "Christ79",
+        "Sur": "debout_sur",
+        "Souppedion": "souppédion11"
+      },
+      {
+        "Inventaire": "CdN_2004-408",
+        "Vierge_Marie": "Vierge29",
+        "Debout": "en_pied"
+      },
+      {
+        "Inventaire": "CdN_2004-411",
+        "Personnage": "Michel80",
+        "Main_Droite": "main_droite",
+        "Objet_Droite": "sceptre_à_terminaison3"
+      },
+      {
+        "Inventaire": "CdN_2004-411",
+        "Personnage": "Michel81",
+        "Sur": "sur",
+        "Souppedion": "souppédion12"
+      },
+      {
+        "Inventaire": "CdN_2004-415",
+        "Personnage": "archange_Michel82",
+        "Armer": "tenant",
+        "Objet1": "lance39",
+        "Objet2": "globe39"
+      },
+      {
+        "Inventaire": "CdN_2004-415",
+        "Personnage": "archange_Michel83",
+        "Sur": "debout_sur",
+        "Souppedion": "souppédion13"
+      },
+      {
+        "Inventaire": "CdN_2004-416",
+        "Vierge_Marie": "Vierge30",
+        "Mains": "deux_mains",
+        "Objet": "médaillon7"
+      },
+      {
+        "Inventaire": "CdN_2004-417",
+        "Personnage": "saint_Jean_Baptiste84",
+        "Debout": "en_pied"
+      },
+      {
+        "Inventaire": "CdN_2004-419",
+        "Personnage": "saint_Nicolas85",
+        "Armer": "tenant",
+        "Objet1": "Evangiles40",
+        "Objet2": "croisette40"
+      },
+      {
+        "Inventaire": "CdN_2004-420",
+        "Personnage": "saint_militaire86",
+        "Armer": "tenant",
+        "Objet1": "lance41",
+        "Objet2": "bouclier41"
+      },
+      {
+        "Inventaire": "CdN_2004-420",
+        "Personnage": "saint_militaire87",
+        "Debout": "en_pied"
+      },
+      {
+        "Inventaire": "CdN_2004-421",
+        "Personnage": "buste_de_saint_Nicolas88",
+        "Benir": "bénissant",
+        "Main_Droite": "de_la_droite"
+      },
+      {
+        "Inventaire": "CdN_2004-423",
+        "Personnage": "archange_Michel89",
+        "Armer": "tenant",
+        "Objet1": "sceptre42",
+        "Objet2": "globe42"
+      },
+      {
+        "Inventaire": "CdN_2004-423",
+        "Personnage": "archange_Michel90",
+        "Sur": "debout_sur",
+        "Souppedion": "souppédion14"
+      },
+      {
+        "Inventaire": "CdN_2004-424",
+        "Personnage": "Michel91",
+        "Armer": "tenant",
+        "Objet1": "sceptre43",
+        "Objet2": "globe43"
+      },
+      {
+        "Inventaire": "CdN_2004-441",
+        "Personnage": "Michel92",
+        "Main_Droite": "main_droite",
+        "Objet_Droite": "sceptre_4",
+        "Main_Gauche": "main_gauche",
+        "Objet_Gauche": "globe1"
+      },
+      {
+        "Inventaire": "CdN_2004-441",
+        "Personnage": "Michel93",
+        "Sur": "sur",
+        "Souppedion": "souppédion15"
+      },
+      {
+        "Inventaire": "CdN_2004-446",
+        "Vierge_Marie": "Vierge_Épiskepsis31",
+        "Debout": "en_pied"
+      },
+      {
+        "Inventaire": "CdN_2004-460",
+        "Personnage": "saint_Nicolas94",
+        "Benir": "bénissant",
+        "Main_Droite": "de_la_droite"
+      },
+      {
+        "Inventaire": "CdN_2004-461",
+        "Personnage": "saint_Nicolas95",
+        "Debout": "en_pied"
+      },
+      {
+        "Inventaire": "CdN_2004-464",
+        "Personnage": "saint_Georges96",
+        "Armer": "tenant",
+        "Objet1": "lance44",
+        "Objet2": "bouclier44"
+      },
+      {
+        "Inventaire": "CdN_2004-464",
+        "Personnage": "saint_Georges97",
+        "Debout": "en_pied"
+      },
+      {
+        "Inventaire": "CdN_2004-465",
+        "Personnage": "saint_Nicolas98",
+        "Armer": "tenant",
+        "Objet1": "le_Livre45",
+        "Objet2": "croisette45"
+      },
+      {
+        "Inventaire": "CdN_2004-465",
+        "Personnage": "saint_Nicolas99",
+        "Debout": "en_pied"
+      },
+      {
+        "Inventaire": "CdN_2004-467",
+        "Personnage": "saint_Dèmètrios100",
+        "Armer": "tenant",
+        "Objet1": "lance46",
+        "Objet2": "croisette46"
+      },
+      {
+        "Inventaire": "CdN_2004-467",
+        "Personnage": "saint_Dèmètrios101",
+        "Debout": "en_pied"
+      },
+      {
+        "Inventaire": "CdN_2004-470",
+        "Vierge_Marie": "Vierge32",
+        "Armer": "tenant",
+        "Objet": [
+          "médaillon_au_buste_de_l'Enfant8",
+          "croisette9"
+        ]
+      },
+      {
+        "Inventaire": "CdN_2004-470",
+        "Vierge_Marie": "Vierge33",
+        "Assis": "assise",
+        "Trone": "trône5"
+      },
+      {
+        "Inventaire": "CdN_2004-472",
+        "Vierge_Marie": "Vierge_Hodègètria34",
+        "Debout": "en_pied"
+      },
+      {
+        "Inventaire": "CdN_2004-473",
+        "Personnage": "saint_Dèmètrios102",
+        "Main_Droite": "main_droite",
+        "Objet_Droite": "bouclier5"
+      },
+      {
+        "Inventaire": "CdN_2004-474",
+        "Personnage": "saint_Nicolas103",
+        "Debout": "en_pied"
+      },
+      {
+        "Inventaire": "CdN_2004-474",
+        "Personnage": "saint_Nicolas104",
+        "Objet_Gauche": "Évangiles2",
+        "Main_Gauche": "main_gauche",
+        "Benir": "bénit",
+        "Main_Droite": "main_droite"
+      },
+      {
+        "Inventaire": "CdN_2004-475",
+        "Personnage": "saint_Dèmètrios105",
+        "Armer": "tenant",
+        "Objet1": "lance47",
+        "Objet2": "bouclier47"
+      },
+      {
+        "Inventaire": "CdN_2004-480",
+        "Vierge_Marie": "Vierge35",
+        "Assis": "assise",
+        "Trone": "thôkos6"
+      },
+      {
+        "Inventaire": "CdN_2004-484",
+        "Personnage": "empereur_Justinien_II106",
+        "Debout": "en_pied"
+      },
+      {
+        "Inventaire": "CdN_2004-487",
+        "Personnage": "buste_de_saint_Nicolas107",
+        "Armer": "tenant",
+        "Objet1": "Évangiles48",
+        "Objet2": "croisette48"
+      },
+      {
+        "Inventaire": "CdN_2004-487",
+        "Personnage": "buste_de_saint_Nicolas108",
+        "Benir": "bénissant",
+        "Main_Droite": "de_la_droite"
+      },
+      {
+        "Inventaire": "CdN_2004-488",
+        "Vierge_Marie": "Vierge36",
+        "Sur": "debout_sur",
+        "Souppedion": "souppédion16"
+      },
+      {
+        "Inventaire": "CdN_2004-494",
+        "Personnage": "Michel109",
+        "Armer": "tenant",
+        "Objet1": "sceptre49",
+        "Objet2": "globe49"
+      },
+      {
+        "Inventaire": "CdN_2004-495",
+        "Personnage": "Michel110",
+        "Main_Gauche": "main_gauche",
+        "Objet_Gauche": "globe3",
+        "Main_Droite": "main_droite",
+        "Objet_Droite": "sceptre6"
+      },
+      {
+        "Inventaire": "CdN_2004-499",
+        "Personnage": "saint_Jean_Chrysostome111",
+        "Benir": "bénissant",
+        "Main_Droite": "de_la_droite"
+      },
+      {
+        "Inventaire": "CdN_2004-499",
+        "Personnage": "saint_Jean_Chrysostome112",
+        "Sur": "debout_sur",
+        "Souppedion": "souppédion17"
+      },
+      {
+        "Inventaire": "CdN_2004-501",
+        "Personnage": "Michel113",
+        "Debout": "en_pied"
+      },
+      {
+        "Inventaire": "CdN_2004-501",
+        "Personnage": "Michel114",
+        "Main_Droite": "main_droite",
+        "Objet_Droite": "épée7"
+      },
+      {
+        "Inventaire": "CdN_2004-502",
+        "Personnage": "buste_de_saint_Nicolas115",
+        "Armer": "tenant",
+        "Objet1": "le_Livre50",
+        "Objet2": "croisette50"
+      },
+      {
+        "Inventaire": "CdN_2004-503",
+        "Vierge_Marie": "buste_de_la_Vierge_Nikopoios37",
+        "Mains": "deux_mains",
+        "Objet": "médaillon_au_buste_de_l'Enfant10"
+      },
+      {
+        "Inventaire": "CdN_2004-503",
+        "Vierge_Marie": "buste_de_la_Vierge_Nikopoios38",
+        "Position": "devant_elle",
+        "Christ": "Enfant8"
+      },
+      {
+        "Inventaire": "CdN_2004-505",
+        "Vierge_Marie": "Vierge_Épiskepsis39",
+        "Position": "devant",
+        "Christ": "Enfant9"
+      },
+      {
+        "Inventaire": "CdN_2004-505",
+        "Vierge_Marie": "Vierge_Épiskepsis40",
+        "Sur": "debout_sur",
+        "Souppedion": "souppédion18"
+      },
+      {
+        "Inventaire": "CdN_2004-506",
+        "Vierge_Marie": "Vierge41",
+        "Debout": "en_pied"
+      },
+      {
+        "Inventaire": "CdN_2004-506",
+        "Vierge_Marie": "Vierge42",
+        "Mains": "mains",
+        "Objet": "croisette11"
+      },
+      {
+        "Inventaire": "CdN_2004-516",
+        "Vierge_Marie": "Vierge43",
+        "Assis": "assise",
+        "Trone": "thôkos7"
+      },
+      {
+        "Inventaire": "CdN_2004-525",
+        "Vierge_Marie": "Vierge_Blachernitissa44",
+        "Debout": "en_pied"
+      },
+      {
+        "Inventaire": "CdN_2004-526",
+        "Personnage": "prophète_Daniel116",
+        "Debout": "en_pied"
+      },
+      {
+        "Inventaire": "CdN_2004-537",
+        "Personnage": "buste_du_Christ117",
+        "Armer": "tenant",
+        "Objet1": "Évangiles51",
+        "Objet2": "croisette51"
+      },
+      {
+        "Inventaire": "CdN_2004-539",
+        "Personnage": "buste_du_Christ118",
+        "Benir": "bénit",
+        "Main_Droite": "de_la_droite",
+        "Objet_Gauche": "Évangiles4",
+        "Main_Gauche": "main_gauche"
+      },
+      {
+        "Inventaire": "CdN_2004-539",
+        "Personnage": [
+          "buste_du_Christ119",
+          "Romain_Ier_Lécapène120"
+        ],
+        "Position": "derrière"
+      },
+      {
+        "Inventaire": "CdN_2004-540",
+        "Personnage": "buste_de_saint_Nicolas121",
+        "Benir": "bénissant",
+        "Main_Droite": "de_la_droite"
+      },
+      {
+        "Inventaire": "CdN_2004-541",
+        "Personnage": "buste_de_saint_Nicolas122",
+        "Benir": "bénissant",
+        "Main_Droite": "de_la_droite"
+      },
+      {
+        "Inventaire": "CdN_2004-544",
+        "Personnage": "saint_Théodore123",
+        "Armer": "tenant",
+        "Objet1": "lance52",
+        "Objet2": "bouclier52"
+      },
+      {
+        "Inventaire": "CdN_2004-544",
+        "Personnage": "saint_Théodore124",
+        "Debout": "en_pied"
+      },
+      {
+        "Inventaire": "CdN_2004-545",
+        "Personnage": "saint_Théodore125",
+        "Debout": "en_pied"
+      },
+      {
+        "Inventaire": "CdN_2004-545",
+        "Personnage": "saint_Théodore126",
+        "Main_Droite": "main_droite",
+        "Objet_Droite": "lance8",
+        "Main_Gauche": "de_la_gauche",
+        "Objet_Gauche": "bouclier5"
+      },
+      {
+        "Inventaire": "CdN_2004-550",
+        "Personnage": "saint_Georges127",
+        "Armer": "tenant",
+        "Objet1": "lance53",
+        "Objet2": "bouclier53"
+      },
+      {
+        "Inventaire": "CdN_2004-551",
+        "Vierge_Marie": "Vierge45",
+        "Assis": "assise",
+        "Trone": "thôkos8"
+      },
+      {
+        "Inventaire": "CdN_2004-574",
+        "Vierge_Marie": "buste_de_la_Vierge_Nikopoios46",
+        "Mains": "deux_mains",
+        "Objet": "médaillon12"
+      },
+      {
+        "Inventaire": "CdN_2004-574",
+        "Vierge_Marie": "buste_de_la_Vierge_Nikopoios47",
+        "Position": "devant_elle",
+        "Christ": "Enfant_au_nimbe_cruciforme10"
+      },
+      {
+        "Inventaire": "CdN_2004-582",
+        "Personnage": "Christ128",
+        "Assis": "assis",
+        "Trone": "trône9"
+      },
+      {
+        "Inventaire": "CdN_2004-582",
+        "Personnage": "Christ129",
+        "Benir": "bénit",
+        "Main_Droite": "de_la_droite"
+      },
+      {
+        "Inventaire": "CdN_2004-583",
+        "Personnage": "Christ130",
+        "Armer": "tenant",
+        "Objet1": "Évangiles54",
+        "Objet2": "globe54"
+      },
+      {
+        "Inventaire": "CdN_2004-583",
+        "Personnage": "Christ131",
+        "Assis": "assis",
+        "Trone": "trône10"
+      },
+      {
+        "Inventaire": "CdN_2004-584",
+        "Personnage": "Christ132",
+        "Benir": "bénit",
+        "Main_Droite": "de_la_droite"
+      },
+      {
+        "Inventaire": "CdN_2004-584",
+        "Personnage": "Christ133",
+        "Debout": "en_pied"
+      },
+      {
+        "Inventaire": "CdN_2004-590",
+        "Personnage": "saint_Georges134",
+        "Armer": "tenant",
+        "Objet1": "lance55",
+        "Objet2": "bouclier55"
+      },
+      {
+        "Inventaire": "CdN_2004-590",
+        "Personnage": "saint_Georges135",
+        "Debout": "en_pied"
+      },
+      {
+        "Inventaire": "CdN_2004-592",
+        "Personnage": "archange_Michel136",
+        "Armer": "tenant",
+        "Objet1": "sceptre56",
+        "Objet2": "globe56"
+      },
+      {
+        "Inventaire": "CdN_2004-593",
+        "Personnage": "archange_Michel137",
+        "Armer": "tenant",
+        "Objet1": "sceptre57",
+        "Objet2": "globe57"
+      },
+      {
+        "Inventaire": "CdN_2004-593",
+        "Personnage": "archange_Michel138",
+        "Sur": "debout_sur",
+        "Souppedion": "souppédion19"
+      },
+      {
+        "Inventaire": "CdN_2004-604",
+        "Personnage": "saint_Nicolas139",
+        "Benir": "bénissant",
+        "Main_Droite": "de_la_droite"
+      },
+      {
+        "Inventaire": "CdN_2004-604",
+        "Personnage": "saint_Nicolas140",
+        "Debout": "en_pied"
+      },
+      {
+        "Inventaire": "CdN_2004-615",
+        "Personnage": "saint_Jean_Prodrome141",
+        "Armer": "tenant",
+        "Objet1": "croix_processionnelle58",
+        "Objet2": "croisette58"
+      },
+      {
+        "Inventaire": "CdN_2004-615",
+        "Personnage": "saint_Jean_Prodrome142",
+        "Debout": "en_pied"
+      },
+      {
+        "Inventaire": "CdN_44665",
+        "Personnage": "Constantin_V143",
+        "Main_Droite": "main_droite",
+        "Objet_Droite": "globe9"
+      },
+      {
+        "Inventaire": "CdN_2004-486",
+        "Personnage": "Anastase_II144",
+        "Debout": "en_pied"
+      }
+    ]
+  }
+}

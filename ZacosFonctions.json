@@ -1,0 +1,1037 @@
+{
+  "zacos": {
+    "data": [
+      {
+        "Personne": "Principaute_D_antioche409",
+        "Fonction1": "Bohemond_III"
+      },
+      {
+        "Personne": "Aimery410",
+        "Fonction1": "Patriarche"
+      },
+      {
+        "Personne": "Foucher411",
+        "Fonction1": "Patriarche"
+      },
+      {
+        "Personne": "Amaury412",
+        "Fonction1": "Patriarche"
+      },
+      {
+        "Personne": "Aymar_Le_Moine413",
+        "Fonction1": "Patriarche"
+      },
+      {
+        "Personne": "Basile22",
+        "Fonction1": "Hypatos",
+        "Fonction2": "Notaire_Imperial"
+      },
+      {
+        "Personne": "Nicetas_Perenos23",
+        "Fonction1": "Patrice",
+        "Fonction2": "Archonte"
+      },
+      {
+        "Personne": "Michel_Pithokastrites24",
+        "Fonction1": "Patrice",
+        "Fonction2": "Hypatos",
+        "Fonction3": "Archonte_Du_Pantheon"
+      },
+      {
+        "Personne": "Leon_Apostolites25",
+        "Fonction1": "Asekretis"
+      },
+      {
+        "Personne": "Nicolas26",
+        "Fonction1": "Chartulaire"
+      },
+      {
+        "Personne": "Theodore27",
+        "Fonction1": "Spatharocubiculaire",
+        "Fonction2": "Chartulaire"
+      },
+      {
+        "Personne": "Nicephore_Adramytenos28",
+        "Fonction1": "Patrice",
+        "Fonction2": "Hypatos",
+        "Fonction3": "Chartulaire_Imperial"
+      },
+      {
+        "Personne": "Nicephore_Laktentitzes29",
+        "Fonction1": "Protospathaire_Imperial",
+        "Fonction2": "Epi_Tou_Chrysottiklinou",
+        "Fonction3": "Mystographe",
+        "Fonction4": "Chartulaire"
+      },
+      {
+        "Personne": "Theodore30",
+        "Fonction1": "Chartulaire"
+      },
+      {
+        "Personne": "Romain31",
+        "Fonction1": "Primicier",
+        "Fonction2": "Protospathaire_Imperial",
+        "Fonction3": "Koitônites",
+        "Fonction4": "Curateur"
+      },
+      {
+        "Personne": "Theodore_Pantechnes32",
+        "Fonction1": "Dikaiodotes"
+      },
+      {
+        "Personne": "Epiphane33",
+        "Fonction1": "Protospathaire",
+        "Fonction2": "Domestique"
+      },
+      {
+        "Personne": "Jean34",
+        "Fonction1": "Curopalate",
+        "Fonction2": "Drongaire"
+      },
+      {
+        "Personne": "Nicolas_Mermentoulos35",
+        "Fonction1": "Drongaire"
+      },
+      {
+        "Personne": "Constantin_Mitylenaios36",
+        "Fonction1": "Proedre",
+        "Fonction2": "Eidikos"
+      },
+      {
+        "Personne": "Constantin_Radenos37",
+        "Fonction1": "Sebaste",
+        "Fonction2": "Eparque"
+      },
+      {
+        "Personne": "Serge38",
+        "Fonction1": "Protospathaire",
+        "Fonction2": "Eparque"
+      },
+      {
+        "Personne": "Andronic_Kappadokes39",
+        "Fonction1": "Grand_Logistes",
+        "Fonction2": "Eparque"
+      },
+      {
+        "Personne": "Constantin_Radenos40",
+        "Fonction1": "Magistre",
+        "Fonction2": "Vestes",
+        "Fonction3": "Ephore"
+      },
+      {
+        "Personne": "Jean41",
+        "Fonction1": "Proedre",
+        "Fonction2": "Ephore"
+      },
+      {
+        "Personne": "Gregoras42",
+        "Fonction1": "Preposite",
+        "Fonction2": "Epi_Tou_Koitônos",
+        "Fonction3": "Vestarque",
+        "Fonction4": "Epi_Tes_Sakelles"
+      },
+      {
+        "Personne": "Jean43",
+        "Fonction1": "Protoproedre",
+        "Fonction2": "Epi_Tes_Basilikes_Sakelles"
+      },
+      {
+        "Personne": "Etienne_Bardales44",
+        "Fonction1": "Epi_Tes_Tapezes"
+      },
+      {
+        "Personne": "Nicephore_Alyates45",
+        "Fonction1": "Epi_Tou_Kanikleiou"
+      },
+      {
+        "Personne": "Pathos46",
+        "Fonction1": "Vestes",
+        "Fonction2": "Juge",
+        "Fonction3": "Epi_Tou_Vestiariou"
+      },
+      {
+        "Personne": "Basile_Aboudimos47",
+        "Fonction1": "Patrice",
+        "Fonction2": "Anthypatos",
+        "Fonction3": "Koitônites",
+        "Fonction4": "Juge",
+        "Fonction5": "Epi_Tôn_Oikeiakôn"
+      },
+      {
+        "Personne": "Michel48",
+        "Fonction1": "Grammatikos",
+        "Fonction2": "Anthrôpos",
+        "Fonction3": "Duc"
+      },
+      {
+        "Personne": "Basile_Machetarios49",
+        "Fonction1": "Patrice",
+        "Fonction2": "Anthypatos",
+        "Fonction3": "Juge"
+      },
+      {
+        "Personne": "Basile_Skribas50",
+        "Fonction1": "Kensôr",
+        "Fonction2": "Skribas",
+        "Fonction3": "Juge"
+      },
+      {
+        "Personne": "Serge_Hexamilites51",
+        "Fonction1": "Vestes",
+        "Fonction2": "Juge"
+      },
+      {
+        "Personne": "Theodore_Chrouselios52",
+        "Fonction1": "Juge"
+      },
+      {
+        "Personne": "Constantin_Cheilas53",
+        "Fonction1": "Sebaste",
+        "Fonction2": "Juge"
+      },
+      {
+        "Personne": "Thomas_Haplo54"
+      },
+      {
+        "Personne": "Jean_Pentaïlas55",
+        "Fonction1": "Membre"
+      },
+      {
+        "Personne": "Constantin56",
+        "Fonction1": "Protospathaire",
+        "Fonction2": "Epi_Tou_Koitônos",
+        "Fonction3": "Logariastes",
+        "Fonction4": "Anthrôpos"
+      },
+      {
+        "Personne": "Leon_Tria57"
+      },
+      {
+        "Personne": "Michel59",
+        "Fonction1": "Logothete"
+      },
+      {
+        "Personne": "Michel60"
+      },
+      {
+        "Personne": "Michel_Radenos61",
+        "Fonction1": "Magistre",
+        "Fonction2": "Vestarque",
+        "Fonction3": "Logothete"
+      },
+      {
+        "Personne": "Constantin62",
+        "Fonction1": "Mystikos",
+        "Fonction2": "Sebaste"
+      },
+      {
+        "Personne": "Theodore_Kodros63",
+        "Fonction1": "Protospathaire",
+        "Fonction2": "Mystographe"
+      },
+      {
+        "Personne": "Basile_Chasanes64",
+        "Fonction1": "Magistre",
+        "Fonction2": "Juge",
+        "Fonction3": "Notaire_Imperial"
+      },
+      {
+        "Personne": "Michel65",
+        "Fonction1": "Protospathaire",
+        "Fonction2": "Notaire_Imperial"
+      },
+      {
+        "Personne": "Nicolas_Matzoukes66",
+        "Fonction1": "Exaktôr",
+        "Fonction2": "Notaire_Imperial"
+      },
+      {
+        "Personne": "Romain67",
+        "Fonction1": "Protospathaire_Epi_Tou_Chrysotriklinou",
+        "Fonction2": "Notaire_Imperial",
+        "Fonction3": "Hypatos"
+      },
+      {
+        "Personne": "Basile68",
+        "Fonction1": "Parakoimomene"
+      },
+      {
+        "Personne": "Jean69",
+        "Fonction1": "Pansebaste",
+        "Fonction2": "Parakoimomene"
+      },
+      {
+        "Personne": "Demetrios70",
+        "Fonction1": "Pincerne"
+      },
+      {
+        "Personne": "Basile71",
+        "Fonction1": "Protospathaire",
+        "Fonction2": "Epi_Tou_Koitonos",
+        "Fonction3": "Preposite"
+      },
+      {
+        "Personne": "Constantin_Choirosphaktes72",
+        "Fonction1": "Preteur"
+      },
+      {
+        "Personne": "Michel_Skribopôlos73",
+        "Fonction1": "Preteur"
+      },
+      {
+        "Personne": "Theodore_Kamateros74",
+        "Fonction1": "Preteur"
+      },
+      {
+        "Personne": "Leonce75",
+        "Fonction1": "Vestarque",
+        "Fonction2": "Preteur"
+      },
+      {
+        "Personne": "Bardas76",
+        "Fonction1": "Le_Protonotaire"
+      },
+      {
+        "Personne": "Georges_Spleniarios77",
+        "Fonction1": "Questeur"
+      },
+      {
+        "Personne": "Leon_Hikanatos78",
+        "Fonction1": "Proedrc",
+        "Fonction2": "Questeur"
+      },
+      {
+        "Personne": "Michel_Anzas79",
+        "Fonction1": "Vestes",
+        "Fonction2": "Juge",
+        "Fonction3": "Questeur"
+      },
+      {
+        "Personne": "Jean80",
+        "Fonction1": "Protospathaire",
+        "Fonction2": "Epi_Tou_Koitônos",
+        "Fonction3": "Sacellaire_Imperial"
+      },
+      {
+        "Personne": "Nicolas81",
+        "Fonction1": "Hypatos",
+        "Fonction2": "Juge",
+        "Fonction3": "Symponos"
+      },
+      {
+        "Personne": "Eudocie395",
+        "Fonction1": "Augousta"
+      },
+      {
+        "Personne": "Kamateros396",
+        "Fonction1": "Eparque"
+      },
+      {
+        "Personne": "Nicolas397",
+        "Fonction1": "Anthypatos",
+        "Fonction2": "Patrice",
+        "Fonction3": "Eparque"
+      },
+      {
+        "Personne": "Sisinnios398",
+        "Fonction1": "Magistre",
+        "Fonction2": "L_Adorateur_Du_Christ"
+      },
+      {
+        "Personne": "Marie399",
+        "Fonction1": "Sebaste"
+      },
+      {
+        "Personne": "Manuel400",
+        "Fonction1": "Sebastophore"
+      },
+      {
+        "Personne": "Theodose401",
+        "Fonction1": "Syncelle"
+      },
+      {
+        "Personne": "Le_Monastere_De_La_Vierge_Acheiropoietos402"
+      },
+      {
+        "Personne": "Adrien_Comnene403"
+      },
+      {
+        "Personne": "Eustathe404"
+      },
+      {
+        "Personne": "Nicetas405"
+      },
+      {
+        "Personne": "Sophie406"
+      },
+      {
+        "Personne": "Tessere_Incertaine407"
+      },
+      {
+        "Personne": "Tessere_De_Remission408"
+      },
+      {
+        "Personne": "Nicephore82",
+        "Fonction1": "Patrice",
+        "Fonction2": "Anthypatos",
+        "Fonction3": "Vestes",
+        "Fonction4": "Hypatos",
+        "Fonction5": "Akolouthos"
+      },
+      {
+        "Personne": "Georges83",
+        "Fonction1": "Spatharocandidat_Imperial",
+        "Fonction2": "Catepan"
+      },
+      {
+        "Personne": "Gregoire_Alanos84",
+        "Fonction1": "Anthypatos",
+        "Fonction2": "Catepan"
+      },
+      {
+        "Personne": "Nicetas_Dabatenos85",
+        "Fonction1": "Magistre",
+        "Fonction2": "Catepan"
+      },
+      {
+        "Personne": "Jean86",
+        "Fonction1": "Sebaste",
+        "Fonction2": "Grand_Domestique"
+      },
+      {
+        "Personne": "Jean87",
+        "Fonction1": "Sebaste",
+        "Fonction2": "Grand_Domestique"
+      },
+      {
+        "Personne": "Nicolas88",
+        "Fonction1": "Proedre",
+        "Fonction2": "Parakoimomene",
+        "Fonction3": "Domestique"
+      },
+      {
+        "Personne": "Gregoire89",
+        "Fonction1": "Duc"
+      },
+      {
+        "Personne": "Jean_Synadenos90",
+        "Fonction1": "Curopalate",
+        "Fonction2": "Duc"
+      },
+      {
+        "Personne": "Aarôn91",
+        "Fonction1": "Proedre",
+        "Fonction2": "Duc"
+      },
+      {
+        "Personne": "Aarôn92",
+        "Fonction1": "Protoproedre",
+        "Fonction2": "Duc"
+      },
+      {
+        "Personne": "Michel_Maurix93",
+        "Fonction1": "Proedre",
+        "Fonction2": "Duc"
+      },
+      {
+        "Personne": "Radomir_Aarôn94",
+        "Fonction1": "Proedre",
+        "Fonction2": "Duc"
+      },
+      {
+        "Personne": "Samuel_Alousianos95",
+        "Fonction1": "Proedre",
+        "Fonction2": "Duc"
+      },
+      {
+        "Personne": "Theodore_Dalassenos96",
+        "Fonction1": "Proedre",
+        "Fonction2": "Duc"
+      },
+      {
+        "Personne": "Leontakis_Tzintziloukes97",
+        "Fonction1": "Patrice",
+        "Fonction2": "Hoplitarque"
+      },
+      {
+        "Personne": "Humbert98",
+        "Fonction1": "Vestes",
+        "Fonction2": "Stratege"
+      },
+      {
+        "Personne": "Leon_Iasites99",
+        "Fonction1": "Anthypatos",
+        "Fonction2": "Patrice",
+        "Fonction3": "Vestes",
+        "Fonction4": "Stratege"
+      },
+      {
+        "Personne": "Radomir_Aarôn100",
+        "Fonction1": "Magistre",
+        "Fonction2": "Vestarque",
+        "Fonction3": "Stratege"
+      },
+      {
+        "Personne": "Romain_Pediadites101",
+        "Fonction1": "Protospathaire",
+        "Fonction2": "Stratege"
+      },
+      {
+        "Personne": "Cheres102",
+        "Fonction1": "Sebaste",
+        "Fonction2": "Stratopedarque"
+      },
+      {
+        "Personne": "Michel163",
+        "Fonction1": "Cesar"
+      },
+      {
+        "Personne": "Nicephore_Botaneiates164",
+        "Fonction1": "Curopalate"
+      },
+      {
+        "Personne": "Nicetas_Kastamonites165",
+        "Fonction1": "Curopalate"
+      },
+      {
+        "Personne": "Romain_Skleros166",
+        "Fonction1": "Curopalate"
+      },
+      {
+        "Personne": "Marie_Makrembolitissa167",
+        "Fonction1": "Curopalatissa"
+      },
+      {
+        "Personne": "Nicetas168",
+        "Fonction1": "Hypatos",
+        "Fonction2": "Aidesimotatos"
+      },
+      {
+        "Personne": "Nicephore_Antiochos169",
+        "Fonction1": "Magistre",
+        "Fonction2": "Vestes"
+      },
+      {
+        "Personne": "Romain_Mousele170",
+        "Fonction1": "Magistre"
+      },
+      {
+        "Personne": "Basile_Kontostephanos171",
+        "Fonction1": "Patrice"
+      },
+      {
+        "Personne": "Constantin_Maleïnos172",
+        "Fonction1": "Patrice"
+      },
+      {
+        "Personne": "Georges_Choirosphaktes173",
+        "Fonction1": "Patrice"
+      },
+      {
+        "Personne": "Jean_Zônaras174",
+        "Fonction1": "Patrice"
+      },
+      {
+        "Personne": "Nicolas175",
+        "Fonction1": "Patrice"
+      },
+      {
+        "Personne": "Andronic_Doukas176",
+        "Fonction1": "Proedre"
+      },
+      {
+        "Personne": "Theodore177",
+        "Fonction1": "Proedre"
+      },
+      {
+        "Personne": "Michel_Tarchaneiôtes178",
+        "Fonction1": "Patrice",
+        "Fonction2": "Prôtoanthypatos"
+      },
+      {
+        "Personne": "Marinas_Maniakopôlos179",
+        "Fonction1": "Protocuropalate"
+      },
+      {
+        "Personne": "Theodore_Spanopoulos180",
+        "Fonction1": "Protocuropalate"
+      },
+      {
+        "Personne": "Georges_Manganes181",
+        "Fonction1": "Protonobelissime"
+      },
+      {
+        "Personne": "Theodore_Pediasimos183",
+        "Fonction1": "Protonobelissime"
+      },
+      {
+        "Personne": "Vitales_Martzellos184",
+        "Fonction1": "Protonobelissime"
+      },
+      {
+        "Personne": "Etienne_Cabalas185",
+        "Fonction1": "Protonobelissime_Exhypertatos"
+      },
+      {
+        "Personne": "Michel_Stryphnos186",
+        "Fonction1": "Prôtonobelissimohypertatos"
+      },
+      {
+        "Personne": "Jean_Chamodrakôn187",
+        "Fonction1": "Protospathaire"
+      },
+      {
+        "Personne": "Leon188",
+        "Fonction1": "Protospathaire_Imperial",
+        "Fonction2": "Epi_Tou_Chrysotrildinou"
+      },
+      {
+        "Personne": "Leonce_Alanos189",
+        "Fonction1": "Protospathaire",
+        "Fonction2": "Hypatos"
+      },
+      {
+        "Personne": "Nicephore_Argyros190",
+        "Fonction1": "Protospathaire"
+      },
+      {
+        "Personne": "Nicolas_Methodios191",
+        "Fonction1": "Protospathaire",
+        "Fonction2": "Hypatos",
+        "Fonction3": "Diadochos"
+      },
+      {
+        "Personne": "Pierre192",
+        "Fonction1": "Protospathaire"
+      },
+      {
+        "Personne": "Serge_Alanos193",
+        "Fonction1": "Protospathaire"
+      },
+      {
+        "Personne": "Michel_Abalantes_Kalothetes194",
+        "Fonction1": "Sebaste"
+      },
+      {
+        "Personne": "Jean_Alyattes195",
+        "Fonction1": "Sebaste"
+      },
+      {
+        "Personne": "Jean_Arbantenos196",
+        "Fonction1": "Sebaste"
+      },
+      {
+        "Personne": "Michel_Atouemes197",
+        "Fonction1": "Sebaste"
+      },
+      {
+        "Personne": "Etienne_Batatzes198",
+        "Fonction1": "Sebaste"
+      },
+      {
+        "Personne": "Joseph_Bryennios200",
+        "Fonction1": "Sebaste"
+      },
+      {
+        "Personne": "Andronic_Cantacuzene201",
+        "Fonction1": "Sebaste"
+      },
+      {
+        "Personne": "Constantin202",
+        "Fonction1": "Sebaste"
+      },
+      {
+        "Personne": "Georges_Daimonoïoannes203",
+        "Fonction1": "Sebaste",
+        "Fonction2": "Prôthypertatos"
+      },
+      {
+        "Personne": "Nicephore_Dermokiites204",
+        "Fonction1": "Sebaste"
+      },
+      {
+        "Personne": "Manuel_Dimyres205",
+        "Fonction1": "Sebaste"
+      },
+      {
+        "Personne": "Marie_Doukaina206",
+        "Fonction1": "Sebaste"
+      },
+      {
+        "Personne": "Andronic_Doukas207",
+        "Fonction1": "Sebaste"
+      },
+      {
+        "Personne": "Etienne_Doukas208",
+        "Fonction1": "Sebaste"
+      },
+      {
+        "Personne": "Michel_Doukas209",
+        "Fonction1": "Sebaste"
+      },
+      {
+        "Personne": "Nicolas_Exkoubitos210",
+        "Fonction1": "Sebaste"
+      },
+      {
+        "Personne": "Leon_Girardos211",
+        "Fonction1": "Sebaste"
+      },
+      {
+        "Personne": "Constantin_Kamytzes212",
+        "Fonction1": "Sebaste"
+      },
+      {
+        "Personne": "Nicetas_Koiladenos213",
+        "Fonction1": "Sebaste"
+      },
+      {
+        "Personne": "Eudocie_Komnene214",
+        "Fonction1": "Sebaste"
+      },
+      {
+        "Personne": "Liberas215",
+        "Fonction1": "Sebaste"
+      },
+      {
+        "Personne": "Georges_Manganes216",
+        "Fonction1": "Sebaste"
+      },
+      {
+        "Personne": "Michel_Manikiites217",
+        "Fonction1": "Sebaste"
+      },
+      {
+        "Personne": "Gregoire_Pakourianos218",
+        "Fonction1": "Sebaste"
+      },
+      {
+        "Personne": "Andronic_Paleologue219",
+        "Fonction1": "Sebaste"
+      },
+      {
+        "Personne": "Theodore220"
+      },
+      {
+        "Personne": "Theodore_Phocas221",
+        "Fonction1": "Sebaste"
+      },
+      {
+        "Personne": "Jean_Potamenos222",
+        "Fonction1": "Sebaste"
+      },
+      {
+        "Personne": "Jean_Romylos223",
+        "Fonction1": "Sebaste"
+      },
+      {
+        "Personne": "Constantin_Sarakenopoulos224",
+        "Fonction1": "Sebaste"
+      },
+      {
+        "Personne": "Jean_Tarônites225",
+        "Fonction1": "Sebaste"
+      },
+      {
+        "Personne": "Manuel_Tatikes226",
+        "Fonction1": "Sebaste"
+      },
+      {
+        "Personne": "Jean_Tzimiskes227",
+        "Fonction1": "Sebaste"
+      },
+      {
+        "Personne": "Isaac_Comnene228",
+        "Fonction1": "Sebastokratôr"
+      },
+      {
+        "Personne": "Anne229",
+        "Fonction1": "Sebastokratorissa"
+      },
+      {
+        "Personne": "Eustathios_Kymineianos230",
+        "Fonction1": "Sebastophore"
+      },
+      {
+        "Personne": "Constantin_Ôpos231",
+        "Fonction1": "Vestarque"
+      },
+      {
+        "Personne": "Demetrios_Krateros232",
+        "Fonction1": "Vestarque"
+      },
+      {
+        "Personne": "Leon_Promotenos233",
+        "Fonction1": "Patrice",
+        "Fonction2": "Anthypatos",
+        "Fonction3": "Vestarque"
+      },
+      {
+        "Personne": "Theodoulos_Synadenos234",
+        "Fonction1": "Vestarque"
+      },
+      {
+        "Personne": "Michel_Tapeinos235",
+        "Fonction1": "Vestes"
+      },
+      {
+        "Personne": "Methode_Ier236"
+      },
+      {
+        "Personne": "Ignace237"
+      },
+      {
+        "Personne": "Etienne238"
+      },
+      {
+        "Personne": "Antoine_II_Kauleas239"
+      },
+      {
+        "Personne": "Alexis_Stoudite240"
+      },
+      {
+        "Personne": "Michel_Ier_Cerulaire241"
+      },
+      {
+        "Personne": "Constantin_III_Leichoudes242"
+      },
+      {
+        "Personne": "Jean_VIII_Xiphilin243"
+      },
+      {
+        "Personne": "Kosmas_Ier244"
+      },
+      {
+        "Personne": "Nicolas_III_Grammatikos245"
+      },
+      {
+        "Personne": "Michel_II_Kourkouas246"
+      },
+      {
+        "Personne": "Basile_II_Karnateros247"
+      },
+      {
+        "Personne": "Nicetas_II_Mountanes248"
+      },
+      {
+        "Personne": "Jean_X_Karnateros249"
+      },
+      {
+        "Personne": "Manuel_Ier_Sarantenos250"
+      },
+      {
+        "Personne": "Germain_II251"
+      },
+      {
+        "Personne": "Methode_II252"
+      },
+      {
+        "Personne": "Nicephore_II253"
+      },
+      {
+        "Personne": "Germain_III_Markoutzas254"
+      },
+      {
+        "Personne": "Athanase_Ier255"
+      },
+      {
+        "Personne": "Isaïe256"
+      },
+      {
+        "Personne": "Jean_XIV_Kalekas257"
+      },
+      {
+        "Personne": "Macaire258"
+      },
+      {
+        "Personne": "Michel259",
+        "Fonction1": "Chartophylax"
+      },
+      {
+        "Personne": "Nicetas260",
+        "Fonction1": "Chartophylax"
+      },
+      {
+        "Personne": "Pierre261",
+        "Fonction1": "Chartophylax"
+      },
+      {
+        "Personne": "Pierre262",
+        "Fonction1": "Diacre",
+        "Fonction2": "Chartophylax"
+      },
+      {
+        "Personne": "Jean_Hagiophlôrites263",
+        "Fonction1": "Chartophylax"
+      },
+      {
+        "Personne": "Samuel_Mauropous264",
+        "Fonction1": "Chartophylax"
+      },
+      {
+        "Personne": "Sceau_Des_Ekklesiekdikoi265"
+      },
+      {
+        "Personne": "Sceau_Des_Ekklesiekdikoi266"
+      },
+      {
+        "Personne": "Sceau_Des_Ekklesiekdikoi267"
+      },
+      {
+        "Personne": "Sceau_Des_Ekklesiekdikoi268"
+      },
+      {
+        "Personne": "Sceau_Des_Ekklesiekdikoi269"
+      },
+      {
+        "Personne": "Sceau_Des_Ekklesiekdikoi270"
+      },
+      {
+        "Personne": "Sceau_Des_Ekklesiekdikoi271"
+      },
+      {
+        "Personne": "Sceau_Des_Ekklesiekdikoi272"
+      },
+      {
+        "Personne": "Sceau_Des_Ekdikoi273"
+      },
+      {
+        "Personne": "Nicetas274",
+        "Fonction1": "Anthypatos",
+        "Fonction2": "Patrice",
+        "Fonction3": "Econome"
+      },
+      {
+        "Numero": 275,
+        "Personne": "Sceau_De_I_oikonomeion_De_Sainte-Sophie"
+      },
+      {
+        "Personne": "Kerouzeiatos276"
+      },
+      {
+        "Personne": "Constantin277",
+        "Fonction1": "Diacre",
+        "Fonction2": "Chartulairc",
+        "Fonction3": "Syncelle"
+      },
+      {
+        "Personne": "Aristenos278"
+      },
+      {
+        "Personne": "Jean279",
+        "Fonction1": "Kathigoumene",
+        "Fonction2": "Notaire_Patriarcal"
+      },
+      {
+        "Personne": "Sceau_Du_Monastere_De_La_Vierge_Tôn_Hodegôn281"
+      },
+      {
+        "Numero": 282,
+        "Personne": "Sceau_De_L_eglise_Saint-Nicolas"
+      },
+      {
+        "Personne": "Symeon_II283",
+        "Fonction1": "Patriarche"
+      },
+      {
+        "Personne": "Theodose_III284"
+      },
+      {
+        "Personne": "Nicephore285",
+        "Fonction1": "Patriarche"
+      },
+      {
+        "Personne": "Michel286",
+        "Fonction1": "Metropolite"
+      },
+      {
+        "Personne": "Christophore287",
+        "Fonction1": "Eveque"
+      },
+      {
+        "Personne": "Nicephore288",
+        "Fonction1": "Eveque"
+      },
+      {
+        "Personne": "Nicolas_Mitzagkôn289",
+        "Fonction1": "Eveque"
+      },
+      {
+        "Personne": "Jacques290",
+        "Fonction1": "Eveque"
+      },
+      {
+        "Personne": "Jean291",
+        "Fonction1": "Eveque"
+      },
+      {
+        "Personne": "Christophore292",
+        "Fonction1": "Clerc_Imperial",
+        "Fonction2": "Exarque"
+      },
+      {
+        "Personne": "Romain293",
+        "Fonction1": "Metropolite",
+        "Fonction2": "Syncelle"
+      },
+      {
+        "Personne": "Le_Metropolite294",
+        "Fonction1": "Protosyncelle"
+      },
+      {
+        "Personne": "Jean295",
+        "Fonction1": "Metropolite"
+      },
+      {
+        "Personne": "Jean296",
+        "Fonction1": "Eveque"
+      },
+      {
+        "Personne": "Constantin297",
+        "Fonction1": "Eveque"
+      },
+      {
+        "Personne": "Nicetas298",
+        "Fonction1": "Metropolite"
+      },
+      {
+        "Personne": "Euthyme299",
+        "Fonction1": "Metropolite",
+        "Fonction2": "Protosyncelle"
+      },
+      {
+        "Personne": "Nicephore300",
+        "Fonction1": "Metropolite"
+      },
+      {
+        "Personne": "Theodoulos301",
+        "Fonction1": "Syncelle"
+      },
+      {
+        "Personne": "Jean302",
+        "Fonction1": "Metropolite"
+      },
+      {
+        "Personne": "Michel303",
+        "Fonction1": "Metropolite"
+      },
+      {
+        "Personne": "Daniel304",
+        "Fonction1": "Metropolite"
+      },
+      {
+        "Personne": "Jean305",
+        "Fonction1": "Poimen"
+      },
+      {
+        "Personne": "Le_Thyepolos306"
+      },
+      {
+        "Personne": "Couvent_De_La_Vierge_Theoskepastos307"
+      },
+      {
+        "Personne": "Ecclesiastique_Anonyme308"
+      }
+    ]
+  }
+}
